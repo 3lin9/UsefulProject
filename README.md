@@ -25,6 +25,12 @@
 ##图标字体库和css框架
 - 各种用css控制图标[FortAwesome](https://www.awesomes.cn)
 
+##H5制作工具与欣赏
+ - [xiaopiu-在线APP原型设计](http://www.xiaopiu.com/)
+ - [iH5最专业的H5制作工具 ](http://www.ih5.cn/general-user/work-show)
+ - [H5作品 - Epub360 意派 ](http://www.epub360.com/portfolio/selected/)
+ - [Mugeda（木疙瘩） - 专业、免费的H5动画制作工具 ](http://www.mugeda.com/index.php)
+ - [百度 H5 模板商店 ](http://h5.baidu.com/store)
 
 ##font类
 
