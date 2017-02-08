@@ -5,12 +5,14 @@
 ### 世界那么大
 1. 程序员网址大全[我想去看看](http://www.tnten.com/)【超基大全】
 2. 醉牛前端[我想去看看](http://f2er.club/)~~~~~【不看不知道，一看吓一跳】
-3. 前端开发工具箱[我想去看看](http://www.tnten.com/)【超多工具，没有做不到的，只有想不到的。】
+3. 前端开发工具箱[我想去看看](https://www.evget.com/article/2014/1/3/20345.html)【超多工具，没有做不到的，只有想不到的。】
 
 
 ### 在线图片压缩
 1. [Tinypng](https://tinypng.com/)
 2. [图好快](http://www.tuhaokuai.com/)
+3. 智图
+
 ---
 ### 微信开发工具
 1. [wiki（微信网页开发样式库）](http://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html)
